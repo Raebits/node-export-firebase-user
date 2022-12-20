@@ -1,0 +1,4 @@
+node_modules/
+firebaseServiceAccount.json
+output/
+build/
